@@ -1,0 +1,46 @@
+/* Global Styles */
+* {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+#header {
+    border-color: #cccccc
+}
+
+#article {
+    background-color: #ffffff
+}
+#content {
+    background-color: #ffffff
+}
+
+img.image {
+    float: left;
+    margin-right: 10px;
+}
+li {
+    display: inline;
+    padding: 5px
+}
+
+.col_1 {
+    float: left;
+    width: 60%;
+    margin: 0 auto;
+    background-color: #efefef8e;
+}
+
+.col_2 {
+    float: right;
+    width: 30%;
+    margin: 0 auto;
+    background-color:#df4444;
+}
+#header{
+    width: 960px;
+}
+
+
+/* Header and Footer
+
+
