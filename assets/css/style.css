@@ -2,6 +2,8 @@
 
 h1, h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 24px;
+    font-weight: bold;
     
 }
 .body {
@@ -19,7 +21,7 @@ h1, h2 {
     color: #777777; 
 
     /*need help with image for background */
-    background-image: url("paper_1.png");
+    background-image: url("../images/paper_1.png");
     
 
 }
@@ -43,7 +45,7 @@ h1, h2 {
     background-color: #4AAAA5;
     text-align: center;
     color: white;
-    padding: 0 20px 0 20px;
+    padding: 20px 20px 20px 20px;
 }
 
 .nav {
@@ -224,6 +226,7 @@ p {
 }
 */
 .about {
+    padding: 10px;
     border-bottom: 2px solid #cccccc;
 }
 
@@ -240,7 +243,7 @@ p {
 
 .connect {
     border-bottom: 2px solid #cccccc;
-    padding: 5px;
+    padding: 10px;
 
 }
 
@@ -265,6 +268,7 @@ p {
     border-top: 5px solid #4aaaa5;
     text-align: center;
     color: #ffffff;
+    height: 50px;
     bottom: 0;
     /*position: fixed;*/
 
