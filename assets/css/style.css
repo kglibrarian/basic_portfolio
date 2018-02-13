@@ -89,6 +89,18 @@ nav a:link {
     
 }
 
+.text {
+    margin-top: 20px;
+}
+
+.form-container {
+   margin-top: 20px; 
+}
+
+.form-fields {
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+}
 .image {
     float: left;
     margin-right: 10px;
