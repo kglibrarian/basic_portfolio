@@ -13,7 +13,7 @@ h1, h2 {
     /* margin: 0 auto;  */
      /* Or you can use flexbox*/
     display:flex;
-   flex-direction: column;
+    flex-direction: column;
    /* align-items: center; */
 
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -153,91 +153,7 @@ p {
     
 }
 
-.caption {
-    /* width: 200px; */
-    /* background-color: #4aaaa5; */
-    /* padding-left: 20px;  */
-    /* padding-right: 20px;  */
-}
 
-/*
-.hangman_container {
-    display:flex;
-    justify-content: center; 
-    position: relative;
-}
-
-.hangman_text {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-
-}
-
-.RPG_Game_container {
-    position: relative;
-}
-
-.RPG_Game_text {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-
-}
-
-.Trivia_Game_container {
-    position: relative;
-}
-
-.Trivia_Game_text {
-    position: relative;
-    bottom: 20px;
-    right: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-
-}
-
-.Rutgers_Info_Widget_container {
-    position: relative;
-}
-
-.Rutgers_Info_Widget_text {
-    position: relative;
-    bottom: 20px;
-    right: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-
-}
-
-.Rock_Paper_Scissors_container {
-    position: relative;
-}
-
-.Rock_Paper_Scissors_text {
-    position: relative;
-    bottom: 20px;
-    right: 20px;
-    background-color: #4aaaa5;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-
-}
-*/
 .about {
     padding: 10px;
     border-bottom: 2px solid #cccccc;
@@ -251,8 +167,6 @@ p {
    text-align: center;
    height: 150px;
 }
-
-
 
 .connect {
     border-bottom: 2px solid #cccccc;
